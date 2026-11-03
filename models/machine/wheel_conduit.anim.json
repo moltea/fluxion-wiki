@@ -1,0 +1,1 @@
+{"format_version":"1.8.0","animations":{"spin":{"animation_length":24,"bones":{"runes":{"rotation":{"0.0":[0,0,0],"24.0":{"vector":[0,1080,0],"easing":"linear"}}},"wheel":{"rotation":{"0.0":[0,0,0],"24.0":{"vector":[0,0,720],"easing":"linear"}}}},"loop":true}}}
